@@ -1,2 +1,2 @@
-# Lamier.github.io
+# Index.html
 Käsuleht

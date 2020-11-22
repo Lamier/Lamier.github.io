@@ -11,7 +11,7 @@
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-2">
-			<img class="img-fluid" href="lamier.github.io/img/Iceground.jpg">
+			<img class="img-fluid" src="lamier.github.io/img/Iceground.jpg">
 			</div>
 			<div class="col justify-content-md-center">
 				Welcome

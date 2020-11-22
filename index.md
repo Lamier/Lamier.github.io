@@ -11,7 +11,7 @@
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-2">
-			<img class="img-fluid" src="lamier.github.io/img/Iceground.jpg">
+			<img class="img-fluid" src="img/Iceground.jpg">
 			</div>
 			<div class="col justify-content-md-center">
 				Welcome
@@ -24,7 +24,7 @@
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-2">
-				<img class="img-fluid" href="img/Iceground.jpg">
+				<img class="img-fluid" src="img/Iceground.jpg">
 			</div>
 			<div class="col justify-content-md-center">
 				Welcome
@@ -32,7 +32,7 @@
 		</div>
 	</div>
 
-	<img src="img/Iceground.png">
+	<img src="img/Iceground.jpg">
 
 
 	script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

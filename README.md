@@ -1,2 +1,0 @@
-# Lamier.github.io
-Käsuleht
